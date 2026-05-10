@@ -1,12 +1,13 @@
 "use client";
 import Link from "next/link";
 import { MessageCircle, Mail, ArrowUp } from "lucide-react";
-import { SiGithub, SiLinkerd, SiInstagram } from "@icons-pack/react-simple-icons";
+import { SiGithub, SiInstagram } from "@icons-pack/react-simple-icons";
+import { LinkedInIcon } from "./SocialIcons";
 import { useTheme } from "./ThemeProvider";
 
 const socialLinks = [
   { name: "GitHub", href: "https://github.com/PhenomCorp12", icon: SiGithub },
-  { name: "LinkedIn", href: "https://linkedin.com/in/joshua-ijemba", icon: SiLinkerd },
+  { name: "LinkedIn", href: "https://linkedin.com/in/joshua-ijemba", icon: LinkedInIcon },
   { name: "Instagram", href: "https://www.instagram.com/joshuaijemba?igsh=MWtreGVpZ3g1cWx0YQ==", icon: SiInstagram },
   { name: "WhatsApp", href: "https://wa.me/2348072536380", icon: MessageCircle },
   { name: "Email", href: "mailto:chidiebube95@gmail.com", icon: Mail },

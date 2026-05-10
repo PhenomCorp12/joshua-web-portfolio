@@ -2,20 +2,13 @@
 
 import Link from "next/link";
 import { ArrowDown, Mail, Download, MessageCircle } from "lucide-react";
-import {
-  SiGithub,
-  SiLinkerd,
-  SiInstagram,
-} from "@icons-pack/react-simple-icons";
+import { SiGithub, SiInstagram } from "@icons-pack/react-simple-icons";
+import { LinkedInIcon } from "./SocialIcons";
 import { useTheme } from "./ThemeProvider";
 
 const socialLinks = [
   { name: "GitHub", href: "https://github.com/PhenomCorp12", icon: SiGithub },
-  {
-    name: "LinkedIn",
-    href: "https://linkedin.com/in/joshua-ijemba",
-    icon: SiLinkerd,
-  },
+  { name: "LinkedIn", href: "https://linkedin.com/in/joshua-ijemba", icon: LinkedInIcon },
   {
     name: "Instagram",
     href: "https://www.instagram.com/joshuaijemba?igsh=MWtreGVpZ3g1cWx0YQ==",
