@@ -37,8 +37,8 @@ export default function EasyTaskCaseStudy() {
         "Kept the tech stack lightweight for optimal performance",
       ]}
       results="EasyTask successfully provided a frictionless task management experience. Users particularly appreciated the clean interface and how quickly they could start managing tasks without tutorials or documentation."
-      liveUrl="https://easytask-app.vercel.app"
-      githubUrl="https://github.com/yourusername/easytask"
+      liveUrl="https://easytask-seven.vercel.app/"
+      githubUrl="https://github.com/PhenomCorp12/easytask"
     />
   );
 }

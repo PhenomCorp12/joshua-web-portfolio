@@ -15,8 +15,8 @@ const projects = [
       "A full-service landing page for a company that creates and manages Wikipedia brand pages, featuring service showcases, SEO optimization, and a streamlined client onboarding flow.",
     tech: ["Next.js", "TypeScript", "Tailwind CSS"],
     image: "/images/wikipage-preview.jpg",
-    liveUrl: "https://wikipage-pro.vercel.app",
-    githubUrl: "https://github.com/yourusername/wikipage-pro",
+    liveUrl: "https://wikipagepro.com/",
+    githubUrl: "https://github.com/PhenomCorp12/wikipagepro",
     color: "from-primary-500 to-accent-500",
   },
   {
@@ -27,8 +27,8 @@ const projects = [
       "A frictionless task management platform for enterprise teams. Users can create, assign, and track tasks with an intuitive interface built for productivity at scale.",
     tech: ["AngularJS", "Vanilla CSS"],
     image: "/images/easytask-preview.jpg",
-    liveUrl: "https://easytask-app.vercel.app",
-    githubUrl: "https://github.com/yourusername/easytask",
+    liveUrl: "https://easytask-seven.vercel.app/",
+    githubUrl: "https://github.com/PhenomCorp12/easytask",
     color: "from-accent-500 to-primary-500",
   },
   {
@@ -39,8 +39,8 @@ const projects = [
       "A React-based investment banking application with tiered account management and real-time interest generation tracking on active investments.",
     tech: ["Next.js", "TypeScript", "Supabase"],
     image: "/images/wealthbridge-preview.jpg",
-    liveUrl: "https://wealthbridge.vercel.app",
-    githubUrl: "https://github.com/yourusername/wealthbridge",
+    liveUrl: "https://wealthridge-investment.vercel.app/",
+    githubUrl: "https://github.com/PhenomCorp12/wealthridge-investment",
     color: "from-primary-600 to-accent-600",
   },
 ];

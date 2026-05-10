@@ -37,8 +37,8 @@ export default function WealthBridgeCaseStudy() {
         "Added TypeScript for enhanced code reliability and developer experience",
       ]}
       results="WealthBridge delivered a powerful yet intuitive investment banking experience. The tiered account system with real-time interest tracking provided users with clear visibility into their investment performance, all within a clean, modern interface."
-      liveUrl="https://wealthbridge.vercel.app"
-      githubUrl="https://github.com/yourusername/wealthbridge"
+      liveUrl="https://wealthridge-investment.vercel.app/"
+      githubUrl="https://github.com/PhenomCorp12/wealthridge-investment"
     />
   );
 }

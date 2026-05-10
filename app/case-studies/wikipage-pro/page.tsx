@@ -37,8 +37,8 @@ export default function WikiPageProCaseStudy() {
         "Added subtle animations to enhance the user experience without being distracting",
       ]}
       results="The final landing page successfully communicated the brand's value proposition with a polished, professional appearance. The clean codebase allows the client to easily update content and add new service offerings in the future."
-      liveUrl="https://wikipage-pro.vercel.app"
-      githubUrl="https://github.com/yourusername/wikipage-pro"
+      liveUrl="https://wikipagepro.com/"
+      githubUrl="https://github.com/PhenomCorp12/wikipagepro"
     />
   );
 }
